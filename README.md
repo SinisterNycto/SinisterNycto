@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Swastik, an aspiring software engineer</h1>
+<h1 align="center">Hey 👋 I'm Swastik</h1>
 
 ###
 
