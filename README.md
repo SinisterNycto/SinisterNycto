@@ -23,6 +23,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -33,6 +37,9 @@
   </a>
   <a href="mailto:swastik.negi2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail badge" />
+  </a>
+  <a href="https://leetcode.com/u/swastiknegi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode badge" />
   </a>
 </div>
 
