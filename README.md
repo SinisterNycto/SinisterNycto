@@ -18,6 +18,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SinisterNycto&show_icons=true&theme=dracula&count_private=true" height="150" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterNycto&layout=compact&theme=dracula&langs_count=8" height="150" />
 </div>
 
