@@ -12,6 +12,7 @@
 
 ---
 
+
 ### 🛠 Tools I Use
 
 <div align="center">
@@ -19,6 +20,7 @@
 </div>
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -28,6 +30,7 @@
 </div>
 
 ---
+
 
 ### 🌐 My Socials
 
