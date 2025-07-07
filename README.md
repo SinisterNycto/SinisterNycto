@@ -15,7 +15,7 @@
 ### 🛠 Tools I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,react,sklearn,pytorch,java,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,sklearn,pytorch,java,vscode,git,tensorflow" />
 </div>
 
 ---
