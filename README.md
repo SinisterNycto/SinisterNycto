@@ -8,15 +8,11 @@
 
 <br/>
 
----
-
 <h2 align="center">🛠 Tools I Use</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,sklearn,pytorch,java,vscode,git,tensorflow" />
 </div>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -24,8 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SinisterNycto&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterNycto&layout=compact&theme=dracula&langs_count=8" height="150" />
 </div>
-
----
 
 <h2 align="center">🌐 My Socials</h2>
 
