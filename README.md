@@ -1,19 +1,16 @@
 <h1 align="center">Hey 👋 I'm Swastik</h1>
 
-###
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWw0anYybWNzbmFqeG1iMHp4emVnNzlmMWQ1cDgzOWFkY25lYjcwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KZBTBnJt59SUsvag2d/giphy.gif" height="220" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRwdDZ2NTF4bm91NGdxMG1tY3JxdDFreXNoeHo4Ym81eWU5NXNnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" height="220" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjcHg0OW9wajhwenA4cTJ5bm9qNXVvNW1wcjh2Z3VoNDBzdmx1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3mdQpQ9SKxFOWs9gy/giphy.gif" height="220 />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjcHg0OW9wajhwenA4cTJ5bm9qNXVvNW1wcjh2Z3VoNDBzdmx1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3mdQpQ9SKxFOWs9gy/giphy.gif" height="220" />
 </div>
 
 <br/>
 
 ---
 
-
-### 🛠 Tools I Use
+<h2 align="center">🛠 Tools I Use</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,sklearn,pytorch,java,vscode,git,tensorflow" />
@@ -21,8 +18,7 @@
 
 ---
 
-
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SinisterNycto&show_icons=true&theme=dracula&count_private=true" height="150" />
@@ -31,8 +27,7 @@
 
 ---
 
-
-### 🌐 My Socials
+<h2 align="center">🌐 My Socials</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/swastik-negi-1a87262b2/" target="_blank">
