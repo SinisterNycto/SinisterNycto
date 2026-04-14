@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋 I'm Swastik</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWw0anYybWNzbmFqeG1iMHp4emVnNzlmMWQ1cDgzOWFkY25lYjcwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KZBTBnJt59SUsvag2d/giphy.gif" height="220" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRwdDZ2NTF4bm91NGdxMG1tY3JxdDFreXNoeHo4Ym81eWU5NXNnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" height="220" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjcHg0OW9wajhwenA4cTJ5bm9qNXVvNW1wcjh2Z3VoNDBzdmx1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3mdQpQ9SKxFOWs9gy/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/KZBTBnJt59SUsvag2d/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" height="220" />
 </div>
 
 <br/>
@@ -14,26 +14,29 @@
   <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,sklearn,pytorch,java,vscode,git,tensorflow" />
 </div>
 
+<br/>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinisterNycto&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img 
+    src="https://streak-stats.demolab.com?user=SinisterNycto&theme=dracula" 
+    height="150"
+  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterNycto&layout=compact&theme=dracula&langs_count=8" height="150" />
-</div>
+<br/>
 
 <h2 align="center">🌐 My Socials</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/swastik-negi-1a87262b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:swastik.negi2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://leetcode.com/u/swastiknegi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
