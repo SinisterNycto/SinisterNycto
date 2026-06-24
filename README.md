@@ -36,7 +36,4 @@
   <a href="mailto:swastik.negi2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://leetcode.com/u/swastiknegi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="25" />
-  </a>
 </div>
