@@ -18,7 +18,6 @@
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development & AI
-- 🌱 Currently learning **System Design**, **Backend Development**, and **Machine Learning**
 - ⚡ Love solving DSA problems and participating in coding contests
 - 🎯 Goal: Become a Software Engineer building impactful products
 
